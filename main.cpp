@@ -14,39 +14,39 @@ Research Input data: go to http://www.weather.com (Links to an external site.)
 
 Pick two cities of your choice. Fill in the temperature for the 7 days of this week of both cities. Fill in this text data table, which will be used in your program.
 
-//City_One = 1, City_Two = 2  Replace City_One and City_Two with the names of your cities
+//Fort_Worth = 1, Dallas = 2  Replace City_One and City_Two with the names of your cities
 
 //Data Table
 
 //City X, Day X: Temp
 
-City 1, Day 1: TEMP
+Fort_Worth, Day 1: TEMP
 
-City 1, Day 2: TEMP
+Fort_Worth, Day 2: TEMP
 
-City 1, Day 3: TEMP
+Fort_Worth, Day 3: TEMP
 
-City 1, Day 4: TEMP
+Fort_Worth, Day 4: TEMP
 
-City 1, Day 5: TEMP
+Fort_Worth, Day 5: TEMP
 
-City 1, Day 6: TEMP
+Fort_Worth, Day 6: TEMP
 
-City 1, Day 7: TEMP
+Fort_Worth, Day 7: TEMP
 
-City 2, Day 1: TEMP
+Dallas, Day 1: TEMP
 
-City 2, Day 2: TEMP
+Dallas, Day 2: TEMP
 
-City 2, Day 3: TEMP
+Dallas, Day 3: TEMP
 
-City 2, Day 4: TEMP
+Dallas, Day 4: TEMP
 
-City 2, Day 5: TEMP
+Dallas, Day 5: TEMP
 
-City 2, Day 6: TEMP
+Dallas, Day 6: TEMP
 
-City 2, Day 7: TEMP
+Dallas, Day 7: TEMP
 */
 
 int main()
