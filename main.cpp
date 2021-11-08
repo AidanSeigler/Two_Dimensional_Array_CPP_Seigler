@@ -20,33 +20,33 @@ Pick two cities of your choice. Fill in the temperature for the 7 days of this w
 
 //City X, Day X: Temp
 
-Fort_Worth, Day 1: TEMP
+Fort_Worth, Day 1: 77
 
-Fort_Worth, Day 2: TEMP
+Fort_Worth, Day 2: 72
 
-Fort_Worth, Day 3: TEMP
+Fort_Worth, Day 3: 69
 
-Fort_Worth, Day 4: TEMP
+Fort_Worth, Day 4: 67
 
-Fort_Worth, Day 5: TEMP
+Fort_Worth, Day 5: 67
 
-Fort_Worth, Day 6: TEMP
+Fort_Worth, Day 6: 74
 
-Fort_Worth, Day 7: TEMP
+Fort_Worth, Day 7: 66
 
-Dallas, Day 1: TEMP
+Dallas, Day 1: 76
 
-Dallas, Day 2: TEMP
+Dallas, Day 2: 71
 
-Dallas, Day 3: TEMP
+Dallas, Day 3: 68
 
-Dallas, Day 4: TEMP
+Dallas, Day 4: 66
 
-Dallas, Day 5: TEMP
+Dallas, Day 5: 64
 
-Dallas, Day 6: TEMP
+Dallas, Day 6: 72
 
-Dallas, Day 7: TEMP
+Dallas, Day 7: 66
 */
 
 int main()
